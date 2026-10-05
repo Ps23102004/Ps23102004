@@ -19,4 +19,4 @@ Python · PyTorch · TypeScript · FastAPI · Three.js / WebGPU · Ollama & loca
 
 ---
 
-Indianapolis, IN · open to Summer 2027 internships · psingh@uindy.edu
+Indianapolis, IN · open to Summer 2027 internships · [LinkedIn](https://www.linkedin.com/in/parth-singh-8310bb402) · psingh@uindy.edu
