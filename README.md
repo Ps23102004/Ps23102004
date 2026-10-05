@@ -1,21 +1,21 @@
 # Hi, I'm Parth Singh
 
-CS (ML & Data Science) at the University of Indianapolis. I build **local-first AI tools** and measure them honestly: every project reports where it fails.
+CS (ML & Data Science) at the University of Indianapolis. I build local-first AI tools and report where each one fails.
 
-Currently: LLM evaluation & benchmark design, Handshake AI (Mar 2026–present).
+Currently: LLM evaluation and benchmark design, Handshake AI (Mar 2026 to present).
 
 ## Projects
 
-- [**same**](https://github.com/Ps23102004/same) — find every photo a specific object appears in, fully on-device: DINOv2 region retrieval + geometric verification
-- [**llm-ladder**](https://github.com/Ps23102004/llm-ladder) — confidence-gated cascade across tiered local LLMs; escalates to a bigger model only when self-consistency drops
-- [**VisaRadar**](https://github.com/Ps23102004/VisaRadar) — H-1B sponsorship checks from real DOL filing history, not another job board
-- [**homeground**](https://github.com/Ps23102004/homeground) — type your address, ride a longboard down your own street: OpenStreetMap data rebuilt as a playable 3D level
-- [**unmumble**](https://github.com/Ps23102004/unmumble) — dialogue-anchored loudness processing: voice/background separation + EBU R128 metering and ducking
-- [**fairdeal**](https://github.com/Ps23102004/fairdeal) — "is this rent fair?" verdicts checked against HUD/BLS benchmark data
+- [**same**](https://github.com/Ps23102004/same): find every photo that contains a specific object, on-device. DINOv2 candidates, SIFT/RANSAC verification.
+- [**llm-ladder**](https://github.com/Ps23102004/llm-ladder): runs a prompt on a small local LLM first and moves to a bigger one when repeated answers disagree.
+- [**Cutroom**](https://github.com/Ps23102004/Cutroom): desktop video editor in Rust (Tauri) with local AI models. Installers for macOS, Windows, Linux.
+- [**agent-office**](https://github.com/Ps23102004/agent-office): my fork of a 3D workspace for coding agents. Added a low-power graphics mode, a city, driving physics, a race track and an arena.
+- [**VisaRadar**](https://github.com/Ps23102004/VisaRadar): checks whether an employer sponsors visas, using real Department of Labor filings.
+- [**homeground**](https://github.com/Ps23102004/homeground): type your address, ride a longboard down your own street. OpenStreetMap data rebuilt as a 3D level.
 
 ## Stack
 
-Python · PyTorch · TypeScript · FastAPI · Three.js / WebGPU · Ollama & local LLMs · scikit-learn
+Python · PyTorch · TypeScript · Rust · FastAPI · Three.js / WebGPU · Ollama · scikit-learn
 
 ---
 
