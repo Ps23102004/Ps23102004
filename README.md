@@ -36,4 +36,4 @@ Python · PyTorch · TypeScript · Rust · FastAPI · Three.js / WebGPU · Ollam
 
 ---
 
-Indianapolis, IN · open to Summer 2027 internships · [LinkedIn](https://www.linkedin.com/in/parth-singh-8310bb402) · psingh@uindy.edu
+Indianapolis, IN · AWS Certified Cloud Practitioner · open to Summer 2027 internships and new-grad roles · [LinkedIn](https://www.linkedin.com/in/parth-ror) · parthsingh23@icloud.com
