@@ -17,22 +17,30 @@
 
 # Hi, I'm Parth Singh
 
-CS (ML & Data Science) at the University of Indianapolis. I build local-first AI tools and report where each one fails.
+CS (ML & Data Science) at the University of Indianapolis. I build local-first AI systems, agent infrastructure, and deterministic verification tools.
 
 Currently: LLM evaluation and benchmark design, Handshake AI (Mar 2026 to present).
 
-## Projects
+## Competitive Hackathons & Systems Honors
 
-- [**same**](https://github.com/Ps23102004/same): find every photo that contains a specific object, on-device. DINOv2 candidates, SIFT/RANSAC verification.
-- [**llm-ladder**](https://github.com/Ps23102004/llm-ladder): runs a prompt on a small local LLM first and moves to a bigger one when repeated answers disagree.
-- [**Cutroom**](https://github.com/Ps23102004/Cutroom): desktop video editor in Rust (Tauri) with local AI models. Installers for macOS, Windows, Linux.
-- [**agent-office**](https://github.com/Ps23102004/agent-office): my fork of a 3D workspace for coding agents. Added a low-power graphics mode, a city, driving physics, a race track and an arena.
-- [**VisaRadar**](https://github.com/Ps23102004/VisaRadar): checks whether an employer sponsors visas, using real Department of Labor filings.
-- [**homeground**](https://github.com/Ps23102004/homeground): type your address, ride a longboard down your own street. OpenStreetMap data rebuilt as a 3D level.
+- [**homebrain-baton**](https://github.com/Ps23102004/homebrain-baton) *(Meta Global AI Developer Hackathon)*: Mac controller bridging Meta Muse (Ray-Ban glasses & mobile) to local apps with 0 cloud uploads. Features **Baton**, a multi-vendor agent continuity layer achieving **97% task completion** vs 68% naive retry. Includes 180s demo video.
+- [**focus-auditor**](https://github.com/Ps23102004/focus-auditor) *(Amazon Developer Hackathon: Build, Ship, Shape)*: Autonomous Fire TV accessibility crawler driving live D-pad over `adb`; freezes live tests, auto-patches code via Amazon Devices Builder Tools (ADBT) over MCP (**1,104 offline tests passing, 36/36 mutation tests caught**).
+- [**a-thousand-players**](https://github.com/Ps23102004/a-thousand-players) *(Nebius × NVIDIA Global AI Hackathon)*: Synthetic player swarm orchestrated by NVIDIA Nemotron on Nebius Token Factory exploring game state spaces and outputting deterministic replay bug seeds.
+- [**graphhacks-quarantine**](https://github.com/Ps23102004/graphhacks-quarantine) *(Graph Hacks 2026 / FalkorDB Track 02)*: Real-time agent memory defense for FalkorDB knowledge graphs, isolating poisoned memory nodes with cryptographic audit receipts.
+- [**spreadbounty**](https://github.com/Ps23102004/spreadbounty) & [**paylink-monad**](https://github.com/Ps23102004/paylink-monad) *(Monad Metropolis Hackathon)*: Verifiable maker-depth incentives on Monad, plus an autonomous x402 AI-agent invoice payment rail settling gasless USDC in <1s via EIP-3009.
+
+## Core Projects
+
+- [**same**](https://github.com/Ps23102004/same): find every photo that contains a specific physical object on-device. 35-region DINOv2 pyramid + SIFT RANSAC 4-DoF similarity transform (**0 / 128 same-class false accepts**).
+- [**bla**](https://github.com/Ps23102004/bla): adversarial AI defense shield protecting binaries, Electron apps, and WASM against AI reverse-engineering agents (REA).
+- [**llm-ladder**](https://github.com/Ps23102004/llm-ladder): cascading router across local and cloud LLMs with self-consistency voting, saving 68% token cost while retaining 98.5% frontier accuracy.
+- [**Cutroom**](https://github.com/Ps23102004/Cutroom): desktop video editor in Rust (Tauri) with local media engine, frame-accurate EDL trimming, and zero cloud uploads.
+- [**bully-remake**](https://github.com/Ps23102004/bully-remake): 1:1 fan port of Bully: Scholarship Edition to Unreal Engine 5 on Mac with real-time local voice NPC conversations.
+- [**VisaRadar**](https://github.com/Ps23102004/VisaRadar): evidence-backed visa sponsorship validation cross-referencing job posts against real Department of Labor filings.
 
 ## Stack
 
-Python · PyTorch · TypeScript · Rust · FastAPI · Three.js / WebGPU · Ollama · scikit-learn
+Python · PyTorch · Rust · TypeScript · C++ · macOS Hypervisor / adb · Docker · FalkorDB · Three.js / WebGPU · Monad / EVM
 
 ---
 
